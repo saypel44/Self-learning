@@ -8,3 +8,6 @@ class Child(Parent):
 
 obj = Child()
 print(obj.greet())  # Output: Hello from Child
+
+#came to know it is principles of object oriented programing 
+#Inheritence/generalization
